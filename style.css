@@ -1,0 +1,75 @@
+@font-face{
+    font-family: 'majin';
+    src: url('fonts/WreckedShip.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'neon';
+    src: url('fonts/NEON____.TTF') format('truetype');
+}
+@font-face {
+    font-family: 'animal';
+    src: url('fonts/Animal\ Paw.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'hero';
+    src: url(fonts/Heroes.otf) format('opentype');
+}
+
+
+@media screen and (min-width: 720px){
+    body{
+        background-image: url(https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/2958735/original/landscape-Moon-13/give-you-3574-landscape-hd-wallpaper-1920x1080-dimension-best-of-the-best.jpg);
+    }
+}
+body{
+    background-image: url(https://i.pinimg.com/564x/d9/3e/75/d93e75d31654f0a72c1166efef239502.jpg);
+}.linha1{
+    
+    background-color: #BE27F2;
+    text-align: center;
+    width: 75%;
+    height: 50px;
+    margin:auto;
+    border-radius: 20px;
+    box-shadow: inset 10px 10px 7px rgba(0, 0, 0, 0.438);
+ 
+}
+div > a{
+    color: black;
+   font-family: monospace;
+}
+div > a:visited{
+    color: black;
+}
+.linha1:hover{
+background-color: #E82725;
+box-shadow: 10px 10px 7px rgba(0, 0, 0, 0.438);
+}
+.centro{
+text-align: center;
+color: #ffffff;
+margin-top:60%;
+}a{
+    font-family: monospace;
+    font-size: 1.5em;
+    color: white;
+    text-decoration: none;
+}
+.centro >a{
+    display: none;
+}
+.centro:hover > a{
+    display: block;
+}.linha1 > #snitram{
+    font-family: 'majin',Arial, Helvetica, sans-serif;
+    font-size: 1.5;
+}.linha1 > #joe{
+    font-family: 'neon',Arial, Helvetica, sans-serif;
+    color: #00EDFF;
+}.linha1 > #poyo{
+    font-family: 'animal' , Arial, Helvetica, sans-serif;
+} .linha1 > #kraven{
+    font-family: 'hero' , Arial, Helvetica, sans-serif;
+}
