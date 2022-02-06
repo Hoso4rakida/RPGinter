@@ -24,10 +24,11 @@
     }
 }
 body{
-    background-image: url(https://i.pinimg.com/564x/d9/3e/75/d93e75d31654f0a72c1166efef239502.jpg);
+    background-image: url(https://cdn.wallpapersafari.com/76/94/sTmgSd.jpg);
+    background-position-x: 30%;
 }.linha1{
     
-    background-color: #BE27F2;
+    background-color: #7B66C4;
     text-align: center;
     width: 75%;
     height: 50px;
@@ -50,7 +51,7 @@ box-shadow: 10px 10px 7px rgba(0, 0, 0, 0.438);
 .centro{
 text-align: center;
 color: #ffffff;
-margin-top:60%;
+margin-top:10%;
 }a{
     font-family: monospace;
     font-size: 1.5em;
@@ -63,13 +64,16 @@ margin-top:60%;
 .centro:hover > a{
     display: block;
 }.linha1 > #snitram{
+    color: #F25270;
     font-family: 'majin',Arial, Helvetica, sans-serif;
     font-size: 1.5;
 }.linha1 > #joe{
     font-family: 'neon',Arial, Helvetica, sans-serif;
-    color: #00EDFF;
+    color: #0CF2C8;
 }.linha1 > #poyo{
+    color:#382E59;
     font-family: 'animal' , Arial, Helvetica, sans-serif;
 } .linha1 > #kraven{
+    color: #F2CA7E;
     font-family: 'hero' , Arial, Helvetica, sans-serif;
 }
