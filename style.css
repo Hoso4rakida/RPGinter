@@ -18,19 +18,19 @@
 }
 
 
-@media screen and (min-width: 720px){
-    body{
-        background-image: url(https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/2958735/original/landscape-Moon-13/give-you-3574-landscape-hd-wallpaper-1920x1080-dimension-best-of-the-best.jpg);
-    }
-}
+
 body{
-    background-image: url(https://cdn.wallpapersafari.com/76/94/sTmgSd.jpg);
-    background-position-x: 30%;
+    background-image: url('bkg.gif');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
 }.linha1{
     
     background-color: #7B66C4;
     text-align: center;
     width: 75%;
+    max-width: 400px;
     height: 50px;
     margin:auto;
     border-radius: 20px;
@@ -52,6 +52,7 @@ box-shadow: 10px 10px 7px rgba(0, 0, 0, 0.438);
 text-align: center;
 color: #ffffff;
 margin-top:10%;
+font-size:1.5em;
 }a{
     font-family: monospace;
     font-size: 1.5em;
